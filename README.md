@@ -24,6 +24,7 @@
 * The device is now ready!
 
 ## HOW TO USE THE DEVICE
+![Img](https://github.com/benahalkar/ESP32-WS2812-CONTROLLER/blob/main/images/caution.jpg)
 *WARNING: HIGH VOLTAGE INVOLVED*\
 *This Device uses 230V mains voltage to power up. Ensure that you are qualified to work on mains voltage.*  
 *If you are not, seek professional help in making and working with AC connections.*   
